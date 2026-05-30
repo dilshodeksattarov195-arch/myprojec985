@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervalidate",
+        "uuid": 9770215,
+        "checksum": "mmqzvh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
